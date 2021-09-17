@@ -19,8 +19,7 @@ ul {
   padding: 0;
   overflow: hidden;
   border: none;
-  background-color: green;
-  /*rgb(248, 248, 248);*/
+  background-color: #f8f8f8;
   display: block;
   height: 62px;
 }
@@ -46,9 +45,10 @@ li a {
 
 .column {
   float: left;
-  padding: 10px;
-  width: 50%;
-  margin-left: 132px;
+  padding: 0px;
+  width: 750px;
+  margin-left: 150px;
+  height: auto;
 }
 
 img {
@@ -62,10 +62,18 @@ img {
 
 .image-2 {
   object-position: top bottom 50%;
+  height: 473px;
 }
 
 article.card {
   background-color: white;
+  position: relative;
+  margin-top: 50px;
+  height: 920px;
+}
+
+h1 {
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
