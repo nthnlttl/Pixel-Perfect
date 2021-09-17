@@ -74,6 +74,16 @@ article.card {
 
 h1 {
   text-align: center;
+  font-size: 12px;
+  margin-top: 40px;
+  color: #d47952;
+  font-family: "lato", sans-seriff;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+h2 {
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */
